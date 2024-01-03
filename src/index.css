@@ -1,0 +1,35 @@
+@font-face {
+  
+  font-family: 'JakobCTT';
+	src:  url('./fonts/Peter_Ivanovitsch.ttf') format('ttf');
+	font-weight: 400;
+	font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --boxShadow: 8px -8px 18px 8px rgba(167, 171, 173, 0.43);
+  --buttonShadow: -8px 15px 43px 20px rgba(132, 138, 51, 0.61) inset;
+  --buttonBack: #065921c7;
+  --buttonColor: #e2e3e4;
+  --colorText: rgb(231, 226, 220);
+  --textShadow: -1px -1.6px 0px whitesmoke inset;
+  --colorBackgroundAll: #a0d7d7bd;
+  --colorNameSongs: #c75e48;
+  --headerSing: #cc910f;
+  
+  --clipPath: polygon(50% 0%,59.40% 9.22%,73% 6%,77.32% 20.01%,91% 22%,87.16% 37.00%,100% 44%,90.42% 55.39%,97% 68%,88.34% 75.98%,83% 87%,67.66% 86.18%,62% 99%,48.60% 91.58%,38% 99%,29.82% 88.17%,17% 87%,17.68% 74.58%,3% 68%,10.14% 55.79%,0% 44%,14.24% 37.20%,9% 22%,26.32% 19.02%,27% 6%,42.14% 9.82%);
+}
