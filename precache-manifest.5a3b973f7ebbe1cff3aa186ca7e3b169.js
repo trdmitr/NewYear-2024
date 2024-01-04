@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4ac6a00ab4816548fa60",
-    "url": "/NewYear-2024/static/css/main.88f1cedc.chunk.css"
+    "revision": "c858e26b7ad10e97b798",
+    "url": "/NewYear-2024/static/css/main.a67d885d.chunk.css"
   },
   {
-    "revision": "4ac6a00ab4816548fa60",
-    "url": "/NewYear-2024/static/js/main.09d53baf.chunk.js"
+    "revision": "c858e26b7ad10e97b798",
+    "url": "/NewYear-2024/static/js/main.8a090de0.chunk.js"
   },
   {
     "revision": "209d14cc6cd16715e91b",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/NewYear-2024/static/media/Peter_Ivanovitsch.e0df83df.ttf"
   },
   {
-    "revision": "4540b114cf97488772c4c9f8a60f585c",
+    "revision": "2c590a802c93457b2bb3c3a66f3573d6",
     "url": "/NewYear-2024/index.html"
   }
 ];
